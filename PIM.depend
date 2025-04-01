@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1729777562 source:c:\users\aluno.unipsor2\desktop\pim\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1731107216 source:c:\users\fabio\onedrive - unip\documentos\nova pasta\pim\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1732566786 source:c:\users\fabio\onedrive - unip\documentos\c - c++\pim\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
